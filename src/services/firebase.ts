@@ -3,13 +3,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, si
 
 // Replace with your Firebase config
 const firebaseConfig = {
-	apiKey: "AIzaSyDQJbC9hV_URYrINNwsXT0alZ2erOco6N0",
-	authDomain: "hariswebapp.firebaseapp.com",
-	projectId: "hariswebapp",
-	storageBucket: "hariswebapp.firebasestorage.app",
-	messagingSenderId: "720184336255",
-	appId: "1:720184336255:web:16d2d0f5b86abc6806c44a",
-	measurementId: "G-EVW6JCT0T7",
+nothing
 };
 
 // Initialize Firebase
