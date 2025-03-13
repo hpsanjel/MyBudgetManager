@@ -3,13 +3,13 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, si
 
 // Replace with your Firebase config
 const firebaseConfig = {
-	apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-	authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
-	projectId: process.env.REACT_APP_PROJECT_ID,
-	storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
-	messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-	appId: process.env.REACT_APP_APP_ID,
-	measurementId: process.env.REACT_APP_MEASUREMENT_ID,
+	apiKey: "AIzaSyDQJbC9hV_URYrINNwsXT0alZ2erOco6N0",
+	authDomain: "hariswebapp.firebaseapp.com",
+	projectId: "hariswebapp",
+	storageBucket: "hariswebapp.firebasestorage.app",
+	messagingSenderId: "720184336255",
+	appId: "1:720184336255:web:16d2d0f5b86abc6806c44a",
+	measurementId: "G-EVW6JCT0T7",
 };
 
 // Initialize Firebase
